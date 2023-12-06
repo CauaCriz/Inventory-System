@@ -3,8 +3,10 @@ Sistema de inventário em dialog para o SA:MP (Pawn)
 
 ## Dependências
 Existem algumas dependências utilizadas no sistema:
-- SQLite: Armazenar informações
+- SQLite (a_sampdb): Armazenar informações num banco de dados
 - Pawn.CMD: Processar comandos
+- sscanf2: Extrair dados estruturados de uma string
+- streamer: Criação dos itens
 
 ## Dúvidas
 Alguma dúvida? entre em contato comigo através do Discord:
