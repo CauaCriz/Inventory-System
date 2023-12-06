@@ -6,6 +6,6 @@ Existem algumas dependências utilizadas no sistema:
 - SQLite: Armazenar informações
 - Pawn.CMD: Processar comandos
 
-## Dúvida
+## Dúvidas
 Alguma dúvida? entre em contato comigo através do Discord:
 - Creator: caua_cruz
