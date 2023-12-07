@@ -31,6 +31,17 @@
 #include <sscanf2>
 #include <streamer>
 
+//Settings
+
+
+//Database
+static DB:databaseInv,
+	DBResult:resultQuery,
+	query[128];
+
+//Variables
+
+
 //Publics
 public OnFilterScriptInit()
 {
