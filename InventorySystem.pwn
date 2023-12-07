@@ -22,10 +22,22 @@
 		SOFTWARE.
 */
 
+#define FILTERSCRIPT
+
 //Includes
 #include <a_samp>
 #include <Pawn.CMD>
+#include <foreach>
 #include <sscanf2>
 #include <streamer>
 
+//Publics
+public OnFilterScriptInit()
+{
+	return 1;
+}
 
+public OnFilterScriptExit()
+{
+	return 1;
+}
