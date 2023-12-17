@@ -34,10 +34,11 @@
 //Settings
 
 
+//Diialogs
+
+
 //Database
-static DB:databaseInv,
-	DBResult:resultQuery,
-	query[128];
+
 
 //Variables
 
